@@ -13,7 +13,7 @@ npm install
 # pnpm
 pnpm install
 
-# yarn
+# yarn *** use yarn
 yarn install
 
 # bun

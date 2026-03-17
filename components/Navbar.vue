@@ -20,7 +20,7 @@ const route = useRoute()
                 <img src="/logo01.png" alt="logo" class="w-[6rem]" />
             </a>
         </div>
-        <div class="flex-none hidden lg:block z-[1]">
+        <div class="flex-none hidden lg:block z-[10]">
             <!-- Navbar menu content here -->
             <ul v-for="item in navigation" class="px-1 menu menu-horizontal">
                 <li>
